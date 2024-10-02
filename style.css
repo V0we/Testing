@@ -9,5 +9,10 @@ body {
 
 p {
     color: blue;
+<<<<<<< HEAD
     margin: auto;
+=======
+    padding: 10px;
+    display: flex;
+>>>>>>> main
 }
